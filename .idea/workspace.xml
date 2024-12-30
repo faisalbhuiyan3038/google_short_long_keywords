@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b40a6eab-4766-460a-b475-e99cae088ab0" name="Changes" comment="initialize project files">
-      <change afterPath="$PROJECT_DIR$/Browsers/msedgedriver.exe" afterDir="false" />
+    <list default="true" id="b40a6eab-4766-460a-b475-e99cae088ab0" name="Changes" comment="test code successful run with Edge">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SeleniumTest/generate_short_long_keywords.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumTest/generate_short_long_keywords.py" afterDir="false" />
     </list>
@@ -116,7 +115,8 @@
       <updated>1735542796066</updated>
       <workItem from="1735542798621" duration="3184000" />
       <workItem from="1735553884602" duration="936000" />
-      <workItem from="1735554840071" duration="958000" />
+      <workItem from="1735554840071" duration="1436000" />
+      <workItem from="1735556439797" duration="3318000" />
     </task>
     <task id="LOCAL-00001" summary="initialize project files">
       <option name="closed" value="true" />
@@ -126,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735543043590</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test code successful run with Edge">
+      <option name="closed" value="true" />
+      <created>1735556054412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735556054412</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,9 +142,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize project files" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialize project files" />
+    <MESSAGE value="test code successful run with Edge" />
+    <option name="LAST_COMMIT_MESSAGE" value="test code successful run with Edge" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Google_Short_Long_Keywords$generate_short_long_keywords.coverage" NAME="generate_short_long_keywords Coverage Results" MODIFIED="1735555649342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SeleniumTest" />
+    <SUITE FILE_PATH="coverage/Google_Short_Long_Keywords$generate_short_long_keywords.coverage" NAME="generate_short_long_keywords Coverage Results" MODIFIED="1735559654553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SeleniumTest" />
   </component>
 </project>
